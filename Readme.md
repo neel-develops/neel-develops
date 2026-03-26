@@ -10,8 +10,6 @@ I work at the intersection of development and design, where clean logic meets ae
 
 Right now, I’m exploring <b>AI, web development, and design systems</b> while building real-world projects that solve actual problems.<br><br>
 
-Alongside tech, I’m also a co-founder of a <b>shoe laundry & repair service</b> — staying connected to real-world hustle.<br><br>
-
 I learn fast, build faster, and constantly push to level up — technically and creatively.<br><br>
 
 —<br><br>
