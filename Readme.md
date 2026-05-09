@@ -1,31 +1,31 @@
 # 💫 About Me
 
-Hey, I’m Neel 👋<br><br>
+## Hey, I'm Neel 👋
 
-Second-year Integrated B.Tech student in <b>AI & Data Science</b>, blending tech with creativity to build things that actually stand out.<br><br>
+B.Tech student in AI & Data Science — building at the intersection of clean logic and aesthetic design.
+I don't just write code. I design experiences.
 
-I don’t just write code — I design experiences.<br><br>
 
-I work at the intersection of development and design, where clean logic meets aesthetic visuals. From smooth UI to modern styles like <b>glassmorphism</b>, I focus on building things that feel as good as they function.<br><br>
+Second-year integrated B.Tech student exploring the space where **development meets design**.
+I work on projects that feel as good as they function — from smooth, modern UIs with glassmorphism
+to AI systems that solve real problems. I learn fast, build faster, and constantly push to level up
+technically and creatively.
 
-Right now, I’m exploring <b>AI, web development, and design systems</b> while building real-world projects that solve actual problems.<br><br>
 
-I learn fast, build faster, and constantly push to level up — technically and creatively.<br><br>
+### Focus areas
 
-—<br><br>
+| | |
+|---|---|
+| 🎨 **Design systems** | Clean, premium, aesthetic UI/UX — glassmorphism, smooth motion, visual systems that stand out |
+| 🌐 **Web development** | Real-world projects built for performance and polish |
+| 🤖 **AI & agents** | Exploring LLMs, multi-agent systems, and applied AI that solves actual problems |
+| 💡 **Startup thinking** | Experimenting with ideas, shipping fast, and building things that actually matter |
 
-<b>UI/UX + Graphic Design</b> (clean, premium, aesthetic)<br>
-<b>Web Development</b> & real-world projects<br>
-<b>AI & Data Science</b> exploration<br>
-<b>Startups</b> & experimenting with ideas<br><br>
+---
 
-—<br><br>
-
-To create projects that don’t just work — but <b>look insane, feel smooth, and actually matter.</b><br><br>
-
-—<br><br>
-
-<b>Code. Design. Build. Repeat.</b>
+> I build projects that don't just work — they **look insane, feel smooth, and actually matter.**
+>
+> *Code. Design. Build. Repeat.*
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wdymneel_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/neel-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:neel.ai.dev@gmail.com) 
