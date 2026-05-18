@@ -40,10 +40,9 @@ technically and creatively.
 ![](https://streak-stats.demolab.com/?user=neel-develops&theme=catppuccin_mocha&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=neel-develops&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=neel-develops&theme=react&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://komarev.com/ghpvc/?username=neel-develops&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=neel-develops&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
